@@ -1,0 +1,24 @@
+[submodule "react-native-web"]
+  path = ~/Projects/Node/react-native-web
+  url = https://github.com/ChrisOHu/react-native-web.git
+
+[submodule "react-native-elements"]
+  path = ~/Projects/Node/react-native-elements
+  url = https://github.com/ChrisOHu/react-native-elements.git
+
+[submodule "react-native-vector-icons"]
+  path = ~/Projects/Node/react-native-vector-icons
+  url = https://github.com/ChrisOHu/react-native-vector-icons.git
+
+[submodule "react-native-image-crop-picker"]
+  path = ~/Projects/Node/react-native-image-crop-picker
+  url = https://github.com/ChrisOHu/react-native-image-crop-picker.git
+
+[submodule "react-native-viewpager"]
+  path = ~/Projects/Node/react-native-viewpager
+  url = git@github.com:ChrisOHu/react-native-viewpager.git
+
+[submodule "react-native-swiper"]
+  path = ~/Projects/Node/react-native-swiper
+  url = git@github.com:ChrisOHu/react-native-swiper.git
+
